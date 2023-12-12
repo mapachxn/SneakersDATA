@@ -1,0 +1,40 @@
+CRITICAL - 2023-12-08 00:27:19 --> syntax error, unexpected single-quoted string "https://drop-shop.mx/cdn/shop/...", expecting "]"
+in APPPATH\Views\tenis.php on line 79.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('tenis', [], true)
+ 3 APPPATH\Controllers\Designus.php(22): view('tenis', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Designus->mostrarSneakers()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Designus))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\sneaky_shoes\\public\\index.php')
+CRITICAL - 2023-12-08 00:27:34 --> syntax error, unexpected single-quoted string "https://drop-shop.mx/cdn/shop/...", expecting "]"
+in APPPATH\Views\tenis.php on line 79.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('tenis', [], true)
+ 3 APPPATH\Controllers\Designus.php(22): view('tenis', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Designus->mostrarSneakers()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Designus))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\sneaky_shoes\\public\\index.php')
+CRITICAL - 2023-12-08 00:27:56 --> syntax error, unexpected single-quoted string "https://drop-shop.mx/cdn/shop/...", expecting "]"
+in APPPATH\Views\tenis.php on line 79.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('tenis', [], true)
+ 3 APPPATH\Controllers\Designus.php(22): view('tenis', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Designus->mostrarSneakers()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Designus))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\sneaky_shoes\\public\\index.php')
+CRITICAL - 2023-12-08 04:35:22 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Views\marcas.php on line 88.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('marcas', [], true)
+ 3 APPPATH\Controllers\Designus.php(38): view('marcas', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Designus->mostrarMarcas()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Designus))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\sneaky_shoes\\public\\index.php')
